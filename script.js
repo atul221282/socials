@@ -13,6 +13,8 @@ const SOCIALS = [
     { name: "TikTok", image: "tiktok.png", link: "https://www.tiktok.com/@discoverieswidfun", color: "#010101" },
     { name: "Ko-fi", image: "kofi.png", link: "https://ko-fi.com/bftgaming4u", color: "#FF5E5B" },
     { name: "Instagram", image: "instagram.png", link: "https://www.instagram.com/bftgaming4u/", color: "#E1306C" },
+    { name: "Kick", image: "kick.png", link: "https://www.instagram.com/bftgaming4u/", color: "#E1306C" },
+   
 ];
 
 (function (data) {
